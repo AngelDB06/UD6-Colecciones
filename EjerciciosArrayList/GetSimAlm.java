@@ -18,8 +18,8 @@ ArrayList<Object> articulos = new ArrayList<>();
     }
 
     public void lista(){
-        for (Object object : articulos) {
-            System.out.println(object);
+        for (int i = 0; i < articulos.size(); i++) {
+            System.out.println();
         }
     }
 
@@ -47,5 +47,4 @@ ArrayList<Object> articulos = new ArrayList<>();
         art.setStock(stock);
     }
 
-    
 }
