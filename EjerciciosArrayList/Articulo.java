@@ -1,4 +1,4 @@
-package ej2;
+package EjerciciosArrayList;
 
 public class Articulo {
     private int codigo, precioc, preciov, stock;

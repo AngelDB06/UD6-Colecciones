@@ -1,4 +1,4 @@
-package ej2;
+package EjerciciosArrayList;
 
 import java.util.ArrayList;
 
