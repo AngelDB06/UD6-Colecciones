@@ -13,10 +13,10 @@ public class Media {
         numeros.add(9);
         numeros.add(1);
 
-        for (Integer n : numeros) {
-            suma=suma+n;
+        for (Integer integer : numeros) {
+            suma= suma+integer;
         }
 
-        System.out.println("La suma de los números del conjunto es: "+suma);
+        System.out.println(suma);
     }
 }
